@@ -1,0 +1,56 @@
+{
+  "name": "CekilisBotu",
+  "version": "1.0.0",
+  "description": "Türkçe Çekiliş Botu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "fasfas",
+  "keywords": [
+    "discord",
+    "giveaways",
+    "giveaway",
+    "bot",
+    "discord.js",
+    "discordjs"
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "chalk": "^4.1.0",
+    "jimp": "^0.16.1",
+    "ms": "^2.1.3",
+    "fs": "^0.0.2",
+    "fs-i": "^1.2.4",
+    "common-tags": "^1.8.0",
+    "node-superfetch": "^0.1.11",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.4.5",
+    "parse-ms": "^2.1.0",
+    "dctr-antispam.js": "^0.1.0",
+    "weather-js": "^2.0.0",
+    "lowdb": "^1.0.0",
+    "@aws-cdk/aws-sdb": "^1.93.0",
+    "superagent": "^6.1.0",
+    "chance": "^1.1.7",
+    "quick.hook": "^1.5.1",
+    "moment-duration-format": "^2.3.2",
+    "user-instagram": "^2.1.8",
+    "discord-logs": "^1.9.0",
+    "discord-buttons": "^3.2.1",
+    "mathjs": "^9.4.2",
+    "ffmpeg-static": "^4.3.0",
+    "opusscript": "^0.0.8",
+    "captcha-plus": "^2.5.2",
+    "pretty-ms": "^7.0.1",
+    "croxydb": "^0.0.7"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://"
+  }
+}
